@@ -1,9 +1,6 @@
 ;; The first three lines of this file were inserted by DrRacket. They record metadata
 ;; about the language level of this file in a form that our tools can easily process.
 #reader(lib "htdp-beginner-reader.ss" "lang")((modname 1_3) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f () #f)))
-; abs add1 ceiling denominator exact->inexact expt floor
-; gcd log max numerator quotient random remainder sqr tan
-
 (define x 12)
 (define y 5)
 
@@ -16,7 +13,6 @@
 ; Exercise 2
 (string-append prefix "_" suffix)
 
-; string-length string-ith number->string substring
 (define str "helloworld")
 (define i 5)
 

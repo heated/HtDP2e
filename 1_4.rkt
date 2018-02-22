@@ -303,7 +303,7 @@
 255 255 -1 -1 0 1 #"\0"
 0 -1 1 #"\0"
 1.0 0 -1 -1 -1 -1 -1 -1 0 0 0 0 0 0 1.0 1.0 1.0 1.0 1.0 1.0 0 0 0 0 0 0
-0 -1           0 709 0 4 3 85
+0 -1           0 707 0 4 3 85
 (
  #";; The first three lines of this file were inserted by DrRacket. The"
  #"y record metadata"
@@ -325,8 +325,6 @@
 0 0 14 3 11 #"2htdp/image"
 0 0 24 3 1 #")"
 0 0 24 29 1 #"\n"
-0 0 24 29 1 #"\n"
-0 0 17 3 45 #"; circle ellipse line rectangle text triangle"
 0 0 24 29 1 #"\n"
 0 0 17 3 12 #"; Exercise 5"
 0 0 24 29 1 #"\n"
